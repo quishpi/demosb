@@ -3,4 +3,4 @@ Proyecto en java con Spring Boot
 
 ## Autor
 
-### Luis Quishpi [Repositorio](htts://github.com/quishpi)
+### Luis Quishpi B. [Repositorio](htts://github.com/quishpi)
